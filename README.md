@@ -1,7 +1,7 @@
 # OSlash
 OSlash assessment
 
-[Assessment Link](https://nadeemoslash.web.app/)
+[Assessment Demo](https://nadeemoslash.web.app/)
 
 To get the frontend running locally:
 
