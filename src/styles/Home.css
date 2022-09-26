@@ -1,0 +1,55 @@
+.home_container{
+    width: 50rem;
+    height: 40rem;
+    border: 2px solid wheat;
+    display: flex;
+    place-items: center;
+    background-color: rgba(256, 256, 256, 0.7);
+    border-radius: 8px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px;
+    flex-direction: column;
+    position: relative;
+}
+
+.home_container > span {
+    color: black;
+}
+
+.main_button_container{
+    position: absolute;
+}
+.share_icon{
+    padding: 0 0 0 5px;
+    width: 12px;
+    height: 12px;
+}
+
+.buttons__container{
+    background-color: white; 
+    padding: 10px 5px; 
+    margin-top: 10px; 
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.top_left, .top_right{
+    top: 40px;
+}
+
+.top_right{
+    right: 40px;
+}
+
+.bottom_right, .bottom_left{
+    bottom: 40px;
+}
+.bottom_right{
+    right: 40px;
+}
+
+.bottom_left{
+    left: 40px;
+}
